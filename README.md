@@ -220,8 +220,8 @@ python -m ipykernel install --user --name archelec-ner --display-name "Python (a
 ### Step 1: Clone or download this repository
 
 ```bash
-git clone <repository-url>
-cd <repository-folder>
+git clone https://github.com/Sanjopp/Zakaria-Bouliaire---NLP---project-2026.git
+cd Zakaria-Bouliaire---NLP---project-2026
 ```
 
 If the repository was downloaded as a zip file, unzip it and move into the project folder.
