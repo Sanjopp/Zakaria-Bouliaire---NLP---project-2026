@@ -1,9 +1,7 @@
 # Who Speaks to Whom? Sponsorship, Spatial Discourse, and Political Identity in French Electoral Manifestos (1973–1993)
 
-**Author:** Zakaria Bouliaire  
-**Institution:** ENSAE Paris  
+**Author:** Zakaria Bouliaire   
 **Course:** Machine Learning for NLP — ENSAE 2026  
-**Supervisor:** Christopher Kermorvant  
 
 ## Project overview
 
@@ -15,11 +13,6 @@ The project addresses two specific questions drawn from the Archelec project cal
 
 1. **Sponsorship:** which politicians are cited by local candidates, and to what extent do they agree with them or reject them?
 2. **Spatial discourse:** do candidates focus their manifestos in local level politic or national and global ones?
-
-The notebook frames the same two questions as follows:
-
-1. Which national political figures did candidates choose to invoke, and does that choice reflect alignment or distancing?
-2. Do candidates frame their discourse locally, nationally, or toward international stakes?
 
 The full analysis is implemented in:
 
