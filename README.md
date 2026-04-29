@@ -14,7 +14,7 @@ This project applies Named Entity Recognition (NER) to the Archelec corpus, a co
 The project follows two research questions:
 
 1. **Sponsorship:** which politicians are cited by local candidates, and to what extent do they agree with them or reject them?
-2. **Spatial discourse:** do candidates frame their discourse locally, nationally, or toward international stakes?
+2. **Spatial discourse:** do candidates focus their manifestos in local level politics or national and global ones?
 
 The full analysis is implemented in the Jupyter notebook:
 
